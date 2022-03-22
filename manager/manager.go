@@ -2,8 +2,12 @@ package manager
 
 import "fmt"
 
-func HukumRekanKerja() {
-	fmt.Println("Ayok kerja!! BELUM TIPES!!!")
+func TambahCuti() {
+	fmt.Println("Libur bro libur!!")
+}
+
+func TambahIjin() {
+	fmt.Println("Ga perlu surat dokter!!")
 }
 
 func AssignKerjaan() {
