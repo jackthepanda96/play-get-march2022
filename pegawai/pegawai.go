@@ -9,3 +9,7 @@ func PrintHalo() {
 func PrintGoodBye() {
 	fmt.Println("Terima kasih kerja kerasnya")
 }
+
+func PrintSedangKerja() {
+	fmt.Println("Saya sedang mengerjakan kerjaan")
+}
